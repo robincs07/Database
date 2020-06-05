@@ -1,0 +1,1 @@
+select count(distinct champion_id) cnt from champ;
